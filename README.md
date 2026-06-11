@@ -5,6 +5,7 @@ Research interests:
 - machine learning,
 - fractal image compression,
 - atomic functions
+- arduino & esp32
   
 You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 

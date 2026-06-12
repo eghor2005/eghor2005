@@ -15,9 +15,8 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 
 | Name       | Egor Khoroshev              |
 |------------|-----------------------------|
-| Born       | 29 September, 2002          |
-| Education  | B.E.                        |
+| Born       | 29 September, 2005         |
+| Education  | Student                        |
 | Alma mater | Moscow Power Engineering Institute (MPEI) |
 | Nationality| Russian                      |
-| Occupation | Analytic            |
 | Skills     |  Python, C/C++ |

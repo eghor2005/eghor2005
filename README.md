@@ -31,4 +31,6 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 
 
 ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eghor2005&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=radical)

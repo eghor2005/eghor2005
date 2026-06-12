@@ -6,8 +6,11 @@ Research interests:
 - fractal image compression,
 - atomic functions
 - arduino & esp32
-  
-You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
+
+ **Reach me:**  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EG0R_kh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eghor2005@gmail.com)
+
 
 [Atomic community](https://github.com/Atomic-community?view_as=public)
 
@@ -38,7 +41,3 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 
 ![](https://komarev.com/ghpvc/?username=eghor2005&color=blue&style=flat-square)
 
-
-📫 **Reach me:**  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EG0R_kh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eghor2005@gmail.com)

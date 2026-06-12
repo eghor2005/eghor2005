@@ -27,3 +27,8 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+
+![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eghor2005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=radical)

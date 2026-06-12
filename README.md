@@ -20,7 +20,6 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 | Alma mater | Moscow Power Engineering Institute (MPEI) |
 | Nationality| Russian                      |
 | Occupation | Researcher |
-| Skills     |  Python, C/C++ |
 
 
 🚀 **Skills:**  

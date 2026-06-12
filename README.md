@@ -1,3 +1,5 @@
+![Picture](scale_2400.png)
+
 ## Hi there 👋
 
 Research interests: 

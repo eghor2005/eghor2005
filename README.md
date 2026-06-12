@@ -34,3 +34,6 @@ You can reach me on [Telegram @EG0R_kh](https://t.me/EG0R_kh)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=radical)
+
+
+![](https://komarev.com/ghpvc/?username=eghor2005&color=blue&style=flat-square)

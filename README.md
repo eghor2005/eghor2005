@@ -14,7 +14,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EG0R_kh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eghor2005@gmail.com)
 ---
-
 📌 [Atomic community](https://github.com/Atomic-community?view_as=public)
 ---
  **🔧 Skills:**  

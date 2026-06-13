@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Egor
 
 <h2>⚡ Research interests⚡</h2>
-z
+
 - Kolmogorov-Arnold neural networks,
 - machine learning,
 - fractal image compression,

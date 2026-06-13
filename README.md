@@ -16,16 +16,6 @@ Research interests:
 
 [Atomic community](https://github.com/Atomic-community?view_as=public)
 
-# Quick Info
-
-| Name       | Egor Khoroshev              |
-|------------|-----------------------------|
-| Born       | 29 September, 2005         |
-| Education  | Student                        |
-| Alma mater | Moscow Power Engineering Institute (MPEI) |
-| Nationality| Russian                      |
-
-
  **Skills:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

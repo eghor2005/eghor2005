@@ -17,7 +17,6 @@
 ---
 
 📌<small>[Atomic community](https://github.com/Atomic-community?view_as=public)</small>
-
 ---
 
 **🔧 Skills**

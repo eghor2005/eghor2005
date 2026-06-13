@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Egor
 
-<h2">⚡ Research interests⚡</h2>
+<h2>⚡ Research interests⚡</h2>
 
 - Kolmogorov-Arnold neural networks,
 - machine learning,

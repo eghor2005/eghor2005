@@ -25,7 +25,3 @@
 ![M5Stack](https://img.shields.io/badge/Cardputer-FF6B00?style=for-the-badge&logo=m5stack&logoColor=white)
 
 
-## 📈 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eghor2005&show_icons=true&theme=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact)

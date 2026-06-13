@@ -28,5 +28,5 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![M5Stack](https://img.shields.io/badge/Cardputer-FF6B00?style=for-the-badge&logo=m5stack&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -9,6 +9,7 @@
 - fractal image compression,
 - atomic functions
 - arduino & esp32
+---
 
 **📫 Reach me:**
 

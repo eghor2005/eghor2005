@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eghor2005@gmail.com)
 ---
 
-📌[<h4>Atomic community</h4>](https://github.com/Atomic-community?view_as=public)
+[<h5>📌 Atomic community</h5>](https://github.com/Atomic-community?view_as=public)
 ---
 
 **🔧 Skills**

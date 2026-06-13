@@ -1,8 +1,16 @@
 ![Picture](scale_2400.png)
 
-## Hi there 👋
+## 👋 Hi, I'm Egor (eghor2005)
 
 ⚡ Research interests: 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" title="Embedded C"/>
+</p>
+
+
 - Kolmogorov-Arnold neural networks,
 - machine learning,
 - fractal image compression,

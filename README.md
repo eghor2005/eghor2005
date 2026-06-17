@@ -4,11 +4,11 @@
 
 **⚡ Research interests**
 
-- Kolmogorov-Arnold neural networks,
-- machine learning,
-- fractal image compression,
-- atomic functions
-- arduino & esp32
+- embedded systems
+- retrogaming emulators
+- cardputer
+- arduino
+- esp32
 
 **📫 Reach me:**
 

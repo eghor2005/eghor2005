@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Egor
 
-**⚡ Research interests**
+## ⚡ Research interests
 
 - embedded systems
 - retrogaming emulators
@@ -10,7 +10,7 @@
 - arduino
 - esp32
 
-**📫 Reach me:**
+## 📫 Reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EG0R_kh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eghor2005@gmail.com)
@@ -19,7 +19,7 @@
 [<small>`📌 Atomic community`</small>](https://github.com/Atomic-community?view_as=public)
 ---
 
-**🔧 Skills**
+## 🔧 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -33,7 +33,11 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Top Languages
 
-**Top Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=dark&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+
+## My GitHub Stats
+
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jblanked&show_icons=true&theme=radical)

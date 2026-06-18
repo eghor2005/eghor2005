@@ -33,5 +33,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Top Langusges**
+
+**Top Languages**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=dark&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 

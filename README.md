@@ -40,4 +40,4 @@
 
 ## My GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jblanked&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=eghor2005&show_icons=true&theme=dark)

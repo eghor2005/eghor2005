@@ -38,10 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=dark&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
 
-## My GitHub Stats
-
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=eghor2005&show_icons=true&theme=dark)
-
 
 ## My Leetcode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Egor_Khoroshev?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Egor_Khoroshev/)

@@ -44,4 +44,4 @@
 
 
 ## My Leetcode Stats
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Egor_Khoroshev&theme=dark)](https://leetcode.com/Egor_Khoroshev/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Egor_Khoroshev?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Egor_Khoroshev/)

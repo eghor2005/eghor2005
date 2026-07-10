@@ -35,8 +35,7 @@
 
 ## Top Languages
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=dark&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eghor2005&layout=compact&theme=dark&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Leetcode Stats
